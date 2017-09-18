@@ -1,0 +1,125 @@
+body {
+    width: 100%;
+    max-width: 1600px;
+    background-color: white;
+    margin: auto;
+}
+
+/*a:link {*/
+    /*color: #3EBF2A;*/
+/*}*/
+
+/*a:hover {*/
+    /*color: #2DAE0F;*/
+/*}*/
+
+/*a:visited {*/
+    /*color: #369659;*/
+/*}*/
+
+.header {
+    color: #369569;
+     }
+
+.backToTop {
+    font-size: 12px;
+    position: fixed;
+    right: 8px;
+    bottom: 4px;
+    background: #369569;
+    color: ghostwhite;
+}
+
+.borderTop {
+    border-top: solid #369569 1px;
+    max-width: 1600px;
+}
+
+.borderBottom {
+    border-bottom: solid #369569 1px;
+    max-width: 1600px;
+}
+
+.clear {
+    clear: both;
+   height: 22px;
+    max-width: 1600px;
+       }
+
+.left {
+float: left;
+}
+
+.right {
+    float: right;
+}
+
+a.nav-link {
+    color: ghostwhite;
+    font-weight: 700;
+ }
+
+a.nav-link:hover {
+    background-color: #00DC99;
+    color: white;
+}
+
+.navMenu {
+    margin-bottom: 22px;
+    background-color: #369569;
+        }
+
+@media screen and (max-width: 992px) {
+    .logo {
+        display: none;
+    }
+        .title {
+            text-align: center;
+            clear: both;
+            max-width: 1600px;
+        }
+    }
+
+.logo {
+    height: 100%;
+    width: 20%;
+       }
+
+.title {
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 36px;
+    width: 80%;
+                   }
+
+.adres {
+    max-width: 1600px;
+}
+
+.adres1 {
+text-align: center;
+    color: #369569;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.adres2 {
+      text-align: center;
+      color: #369569;
+      font-weight: 500;
+  }
+
+.adres3 {
+    text-align: center;
+    color: #369569;
+    font-weight: 500;
+}
+
+.font80pc {
+    font-size: 80%;
+}
+
+.uslugi {
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
