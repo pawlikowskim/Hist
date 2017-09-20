@@ -69,18 +69,19 @@ a.nav-link:hover {
     background-color: #369569;
         }
 
-@media screen and (max-width: 992px) {
-    .logo {
-        display: none;
-    }
-        .title {
-            text-align: center;
-            clear: both;
-            max-width: 1600px;
-        }
-    }
+/*@media screen and (max-width: 992px) {*/
+    /*.logo {*/
+        /*width: 50%;*/
+    /*height: auto;*/
+    /*}*/
+        /*.title {*/
+            /*text-align: center;*/
+            /*clear: both;*/
+            /*max-width: 1600px;*/
+        /*}*/
+    /*}*/
 
-.logo {
+.logoDiv {
     height: 100%;
     width: 20%;
        }
