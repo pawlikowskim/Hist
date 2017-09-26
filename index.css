@@ -5,18 +5,6 @@ body {
     margin: auto;
 }
 
-/*a:link {*/
-    /*color: #3EBF2A;*/
-/*}*/
-
-/*a:hover {*/
-    /*color: #2DAE0F;*/
-/*}*/
-
-/*a:visited {*/
-    /*color: #369659;*/
-/*}*/
-
 .header {
     color: #369569;
      }
@@ -69,29 +57,19 @@ a.nav-link:hover {
     background-color: #369569;
         }
 
-/*@media screen and (max-width: 992px) {*/
-    /*.logo {*/
-        /*width: 50%;*/
-    /*height: auto;*/
-    /*}*/
-        /*.title {*/
-            /*text-align: center;*/
-            /*clear: both;*/
-            /*max-width: 1600px;*/
-        /*}*/
-    /*}*/
+.menu {
+    font-size: 1em;
+}
 
-.logoDiv {
-    height: 100%;
-    width: 20%;
-       }
+.logo {
+    max-width: 40px;
+}
 
 .title {
     text-align: center;
     padding-top: 12px;
     padding-bottom: 36px;
-    width: 80%;
-                   }
+       }
 
 .adres {
     max-width: 1600px;
@@ -123,4 +101,16 @@ text-align: center;
 .uslugi {
     padding-top: 2%;
     padding-bottom: 1%;
+}
+
+.uslugiT {
+    padding-bottom: 2%;
+}
+
+li {
+    list-style-type: square;
+}
+.liHead {
+    font-weight: 800;
+    list-style-type: none;
 }
