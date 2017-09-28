@@ -8,24 +8,21 @@ body {
 .header {
     color: #369569;
     box-sizing: border-box;
-    margin-top: 88px;
+    margin-top: 122px;
 }
 
 .borderTop {
     border-top: solid #369569 1px;
-    max-width: 1600px;
-}
+    }
 
 .borderBottom {
     border-bottom: solid #369569 1px;
-    max-width: 1600px;
-}
+   }
 
 .clear {
     clear: both;
     height: 22px;
-    max-width: 1600px;
-       }
+           }
 
 .left {
 float: left;
@@ -50,6 +47,7 @@ a.nav-link:hover {
     background-color: #369569;
     top: 1px;
     border-radius: 5px;
+    width: 100%;
                 }
 
 .menu {
