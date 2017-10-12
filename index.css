@@ -8,7 +8,7 @@ body {
 .header {
     color: #369569;
     box-sizing: border-box;
-    margin-top: 122px;
+    margin-top: 22px;
 }
 
 .borderTop {
@@ -43,7 +43,7 @@ a.nav-link:hover {
 }
 
 .navMenu {
-    position: fixed;
+    position: relative;
     background-color: #369569;
     top: 1px;
     border-radius: 5px;
