@@ -102,3 +102,7 @@ li {
     font-weight: 800;
     list-style-type: none;
 }
+
+.hide {
+    display: none;
+}
