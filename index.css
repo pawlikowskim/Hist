@@ -43,9 +43,7 @@ a.nav-link:hover {
 }
 
 .navMenu {
-    position: relative;
     background-color: #369569;
-    top: 1px;
     border-radius: 5px;
     width: 100%;
                 }
@@ -61,7 +59,7 @@ a.nav-link:hover {
 .title {
     text-align: center;
     padding-top: 12px;
-    padding-bottom: 36px;
+    padding-bottom: 22px;
        }
 
 .adres {
@@ -106,3 +104,10 @@ li {
 .hide {
     display: none;
 }
+
+.head {
+    color: #369569;
+    text-align: right;
+    font-weight: 600;
+    font-size: 1em;
+        }
