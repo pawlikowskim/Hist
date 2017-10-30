@@ -112,7 +112,7 @@ li {
     font-size: 1em;
         }
 
-.telefon {
+.tel {
     color: #000;
     font-weight: 600;
 }
@@ -141,4 +141,9 @@ li {
 
 .paddingBot {
     padding-bottom: 30px;
+}
+
+.green {
+    color: #369569;
+    font-weight: 500;
 }
