@@ -120,3 +120,25 @@ li {
 .greenBack {
     background-color: #369569;
 }
+
+.doctor {
+    color: white;
+    padding-left: 1%;
+}
+
+.marginBot {
+    margin-bottom: 30px;
+}
+
+.marginTop {
+    padding-top: 30px;
+}
+
+.wiek {
+    font-weight: 700;
+    color: #369569;
+}
+
+.paddingBot {
+    padding-bottom: 30px;
+}
