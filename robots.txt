@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
+Sitemap: http://www.histeroskopia.info/sitemap.xml
 
