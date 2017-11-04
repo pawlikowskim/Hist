@@ -127,11 +127,11 @@ li {
 }
 
 .marginBot {
-    margin-bottom: 30px;
+    margin-bottom: 27px;
 }
 
 .marginTop {
-    padding-top: 30px;
+    margin-top: 27px;
 }
 
 .wiek {
@@ -140,10 +140,24 @@ li {
 }
 
 .paddingBot {
-    padding-bottom: 30px;
+    padding-bottom: 27px;
+}
+
+.paddingTop {
+    padding-top: 27px;
 }
 
 .green {
     color: #369569;
     font-weight: 500;
+}
+
+a.green:hover {
+    color: #00DC99;
+    font-weight: 700;
+    }
+
+a.green {
+    font-weight: 700;
+    text-decoration: underline;
 }
