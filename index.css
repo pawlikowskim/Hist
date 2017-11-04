@@ -146,6 +146,10 @@ li {
     padding-top: 27px;
 }
 
+.paddingRight {
+    padding-right: 27px;
+}
+
 .green {
     color: #369569;
     font-weight: 500;
