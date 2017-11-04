@@ -21,8 +21,7 @@ body {
 
 .clear {
     clear: both;
-    height: 22px;
-           }
+               }
 
 .left {
 float: left;
@@ -160,4 +159,10 @@ a.green:hover {
 a.green {
     font-weight: 700;
     text-decoration: underline;
+}
+
+@media screen and (max-width: 767px) {
+    .mediumScreen {
+    display: none;
+}
 }
