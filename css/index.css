@@ -37,7 +37,7 @@ a.nav-link {
  }
 
 a.nav-link:hover {
-    background-color: #00DC99;
+    background-color: #43BA83;
     color: white;
 }
 
@@ -156,7 +156,7 @@ li {
 }
 
 a.green:hover {
-    color: #00DC99;
+    color: #43BA83;
     font-weight: 700;
     }
 
