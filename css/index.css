@@ -155,6 +155,10 @@ li {
     font-weight: 500;
 }
 
+.greenH {
+    color: #369569;
+}
+
 .darkGreen {
     background-color: #1B4A34;
     color: white;
