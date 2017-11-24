@@ -48,11 +48,12 @@ a.nav-link:hover {
 }
 
 .menu {
-    font-size: 1em;
+    font-size: 13px;
 }
 
 .logo {
     max-width: 40px;
+    height: auto;
 }
 
 .title {
@@ -83,8 +84,7 @@ a.nav-link:hover {
 }
 
 .uslugi {
-    padding-top: 2%;
-    padding-bottom: 1%;
+    padding: 2% 1% 1% 1%;
 }
 
 .uslugiT {
@@ -177,6 +177,12 @@ a.green {
 @media screen and (max-width: 767px) {
     .mediumScreen {
         display: none;
+    }
+}
+
+@media screen and (min-width: 968px) {
+    .menu {
+       font-size: 1em;
     }
 }
 
