@@ -43,7 +43,7 @@ a.nav-link:hover {
 
 .navMenu {
     background-color: #369569;
-    border-radius: 5px;
+    border-radius: 4px;
     width: 100%;
 }
 
@@ -54,6 +54,8 @@ a.nav-link:hover {
 .logo {
     max-width: 40px;
     height: auto;
+    position: relative;
+    left: 6px;
 }
 
 .title {
