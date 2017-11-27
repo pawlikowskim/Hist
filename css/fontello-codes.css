@@ -1,3 +1,11 @@
 
-.icon-phone:before { content: '\e800'; } /* '' */
-.icon-mobile:before { content: '\f10b'; } /* '' */
+.icon-phone:before {
+    content: '\e800';
+}
+
+/* '' */
+.icon-mobile:before {
+    content: '\f10b';
+}
+
+/* '' */
