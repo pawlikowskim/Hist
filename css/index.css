@@ -7,8 +7,7 @@ body {
 
 .header {
     color: #369569;
-    box-sizing: border-box;
-    margin-top: 22px;
+    margin-top: 10px;
 }
 
 .borderTop {
@@ -62,6 +61,12 @@ a.nav-link:hover {
     text-align: center;
     padding-top: 12px;
     padding-bottom: 22px;
+}
+
+.titleTxt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .adres {
@@ -190,4 +195,10 @@ a.green {
 
 .imgRes {
     width: 100% \9;
+}
+
+.imgDoctor {
+    max-width: 20%;
+    height: auto;
+    padding-bottom: 1px;
 }
