@@ -96,6 +96,7 @@ a.nav-link:hover {
 
 .uslugiT {
     padding-bottom: 2%;
+    color: #369569;
 }
 
 li {
@@ -198,7 +199,19 @@ a.green {
 }
 
 .imgDoctor {
-    max-width: 20%;
+    max-width: 22%;
     height: auto;
     padding-bottom: 1px;
+}
+
+.fotoHead {
+    max-width: 212px;
+    margin-left: 4px;
+    height: auto;
+}
+
+.fotoOpis {
+    color: #1B4A34;
+    font-weight: 200;
+    font-size: 9px;
 }
