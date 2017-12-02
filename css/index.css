@@ -201,13 +201,13 @@ a.green {
 }
 
 .fotoHead {
-    max-width: 66%;
+    max-width: 62%;
     height: auto;
     }
 
 .fotoOpis {
     color: #1B4A34;
-    font-weight: bolder;
+    font-weight: 800;
     font-size: 1em;
     padding: 0 22px;
 }
