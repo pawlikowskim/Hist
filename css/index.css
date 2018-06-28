@@ -48,11 +48,12 @@ a.nav-link:hover {
     color: white;
 }
 
-a.nav-link-reverse {
+.nav-link-reverse {
     color: #369569;
+    font-size: 70%;
 }
 
-a.nav-link-reverse:hover{
+a.nav-link-reverse:hover {
     color: #43BA83;
     text-decoration: none;
 }
