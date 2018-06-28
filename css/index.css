@@ -48,6 +48,15 @@ a.nav-link:hover {
     color: white;
 }
 
+a.nav-link-reverse {
+    color: #369569;
+}
+
+a.nav-link-reverse:hover{
+    color: #43BA83;
+    text-decoration: none;
+}
+
 .navMenu {
     background-color: #369569;
     border-radius: 4px;
@@ -214,4 +223,9 @@ a.green {
 
 .center {
    text-align: center;
+}
+
+.greenSmall {
+    color: #369569;
+    font-size: 70%;
 }
