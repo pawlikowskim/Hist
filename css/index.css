@@ -230,3 +230,11 @@ a.green {
     color: #369569;
     font-size: 70%;
 }
+
+.list1 {
+    list-style-type: decimal;
+}
+
+.listA {
+    list-style-type: lower-latin;
+}
