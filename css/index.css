@@ -238,3 +238,7 @@ a.green {
 .listA {
     list-style-type: lower-latin;
 }
+
+.verticalCenter {
+    vertical-align: middle;
+}
